@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 FROM python
 
 WORKDIR /app
